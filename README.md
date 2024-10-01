@@ -22,14 +22,14 @@ Créer un Diagramme à barres pour afficher la répartition des catégories de p
 Bonus: Créer un Heatmap pour voir la correlation entre Année de construction et prix afin de voir si les appartements plus récents ont tendance à être plus chers.
 
 
-1. Compléter avec une nouvelle colonne ville dans votre dataset si l'appartement est de Lyon, Paris ou Marseille 
+1. Compléter avec une nouvelle colonne ville dans votre dataset si l'appartement est de Lyon, Paris ou Marseille
 2. Créer une prédiction par regression linéaire sur la note en fonction de la ville, de la surface et du prix
 3. Créer une prédiction par regression linéaire sur l'année en fonction de la ville puis donnéer sa propabilité (R2) et son taux d'erreur en année (RSME ou MSE)
-4. Créer une classification logistique pour savoir si il y a un garage en fonction du prix et de la ville 
+4. Créer une classification logistique pour savoir si il y a un garage en fonction du prix et de la ville
 5. Créer une classification par KNN pour savoir si il a un balcon en fonction du prix et de la ville
 6.  Pour les 2 classific ation précédente: afficher le accuracy, recall puis F1 Score
 7.  Bonus: Comparer les 2 méthodes de classification KNN et logistique précédente pour voir celle qui prédits le mieux: (accuracy, recall puis F1 Score)
-8.  Bonus ULTIMATE: Créer une classification avec Random Forest (new algo) pour savoir si il y a un balcon en fonction du prix et de la ville 
+8.  Bonus ULTIMATE: Créer une classification avec Random Forest (new algo) pour savoir si il y a un balcon en fonction du prix et de la ville
 
 # Sur votre App et API
 11. Mettre à disposition l'entraitement et la prédiction sous APIs des points 2, 3 et 4
